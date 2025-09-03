@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "tslite"
-version = "0.1.1"
+version = "0.1.2"
 description = "Minimal sliding-window time series forecasting with statsmodels (Holt, Holt-Winters, ARIMA/SARIMA)."
 authors = [{ name = "Your Name" }]
 license = { text = "MIT" }

@@ -1,6 +1,6 @@
 Metadata-Version: 2.4
 Name: tslite
-Version: 0.1.0
+Version: 0.1.2
 Summary: Minimal sliding-window time series forecasting with statsmodels (Holt, Holt-Winters, ARIMA/SARIMA).
 Author: Your Name
 License: MIT
